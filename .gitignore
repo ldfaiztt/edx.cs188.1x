@@ -2,7 +2,9 @@
 
 # C extensions
 *.so
-
+# Lectures folder
+Lectures
+.DS_Store
 # Packages
 *.egg
 *.egg-info
